@@ -7,5 +7,5 @@ def home():
 
 #Test
 @app.route("/test")
-def home():
+def test():
     return "TEST"
